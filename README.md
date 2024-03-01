@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Welcome to my profile! I am an Engineer and Software Developer.
+
+You can find my personal site at [djacu.dev](https://djacu.dev/)
+
+If you are looking for the NixCon NA 2024 workshop on the Nix Module System, you can find it [here](https://nixos-modules.nix.みんな/).
+
 <!--
 **djacu/djacu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
